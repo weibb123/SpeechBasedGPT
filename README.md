@@ -1,6 +1,7 @@
 # SpeechBasedGPT
 
 ## Demonstration
+Make sure to turn on volume :)
 https://github.com/weibb123/SpeechBasedGPT/assets/84426364/9af3ce7f-55e1-49c4-9680-640993874c99
 
 ## Table of Contents
@@ -40,6 +41,8 @@ No dataset was needed for this project. Only input from user is their speech
 
 
 ## Limitation and what can be improved
+
+
 
 
 ## Evaluation
